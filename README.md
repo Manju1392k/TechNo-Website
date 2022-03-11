@@ -8,8 +8,6 @@ Preview of Techno Website
 
 https://user-images.githubusercontent.com/66934377/157830905-802a2d12-4887-462c-b075-f82b61eb0d88.mp4
 
-No Resposive Design..
-
 Required Software's to run the Website
 
 | Application&Software| Version |
@@ -26,5 +24,8 @@ After Instaling the required Application&Software's.Now Run the below Commadn
 ```bash
  npm run runserver
 ```
+
+No Resposive Design..
+
 
 
