@@ -1,5 +1,7 @@
 # TechNo
 
+TechNo Website Made with tailwindcss
+
 TechNo is a simple website.It Contains Information about New Technology and Latest Gadgets..
 
 Preview of Techno Website
