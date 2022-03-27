@@ -14,7 +14,7 @@ No Responsive Design..
 
 # Framework Version
 
-The Below Table Framework's is used in this Project. To Run this project. This Framework has been installed in system with same Version or Lastes Version
+The Below Table Framework's is used in this Project. To Run this project. This Framework has been installed in system with same Version or Latest Version
 
 | Framework | Version |
 | ------------- | ------------- |
